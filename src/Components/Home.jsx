@@ -10,7 +10,7 @@ const Home = () => {
         
         <div className="flex flex-col justify-center h-full">
            
-            <h2 className="pt-12 text-4xl sm:text-7xl font-bold pr-8 text-white">I am a Student</h2>
+            <h2 className="pt-12 text-4xl sm:text-7xl font-bold pr-8 text-white">I am a Studen</h2>
             
             <p className="text-gray-500 py-4 max-w-md">
                 
